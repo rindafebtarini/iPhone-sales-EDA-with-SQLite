@@ -38,5 +38,6 @@ Proyek ini menganalisis data penjualan iPhone menggunakan SQL (SQLite). Dataset 
    
 ## 🛠️ Tools yang Digunakan
 - SQL (SQLite): Query data
+- Google Data Studio: Dashboard
 - Kaggle Dataset: Sumber data utama (csv).
 - Data Analytics: Analisis insight bisnis dan pelaporan data.
