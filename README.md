@@ -3,10 +3,10 @@
 Proyek ini menganalisis data penjualan iPhone menggunakan SQL (SQLite). Dataset di ambil dari website kaggle https://www.kaggle.com/datasets/jawadaahmed/iphone-sales-analytics-dataset. Tujuan analisis ini adalah untuk memahami performa penjualan, perilaku pelanggan, preferensi produk, dan tren. Analisis dilakukan untuk menghasilkan insight bisnis berbasis data yang dapat membantu pengambilan keputusan.
 
 ## Analisis List
-Performa Penjualan: Analisis revenue, model iPhone terlaris, dan tren transaksi.
-Analisis Pelanggan: Perilaku pembelian pelanggan dan distribusi penjualan berdasarkan negara.
-Analisis Produk: Model iPhone populer, varian storage, dan warna favorit pelanggan.
-Analisis Pembayaran & Waktu: Tren metode pembayaran dan performa penjualan bulanan.
+- Performa Penjualan: Analisis revenue, model iPhone terlaris, dan tren transaksi.
+- Analisis Pelanggan: Perilaku pembelian pelanggan dan distribusi penjualan berdasarkan negara.
+- Analisis Produk: Model iPhone populer, varian storage, dan warna favorit pelanggan.
+- Analisis Pembayaran & Waktu: Tren metode pembayaran dan performa penjualan bulanan.
 
 ## Pertanyaan Bisnis yang Harus Dijawab
 ### Pertanyaan Umum Tentang Data
